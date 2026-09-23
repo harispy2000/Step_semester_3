@@ -1,4 +1,4 @@
-package encapsulation.assignment_problems;
+package week_7.assignment_problems;
 
 public class TrafficLight {
     private final String id;

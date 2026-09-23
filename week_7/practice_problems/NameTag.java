@@ -1,4 +1,4 @@
-package encapsulation.practice_problems;
+package week_7.practice_problems;
 
 public class NameTag {
 

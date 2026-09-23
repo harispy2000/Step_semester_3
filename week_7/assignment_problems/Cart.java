@@ -1,4 +1,4 @@
-package encapsulation.assignment_problems;
+package week_7.assignment_problems;
 
 public class Cart {
     private final String cartId;

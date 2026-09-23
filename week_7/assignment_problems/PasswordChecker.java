@@ -1,4 +1,4 @@
-package encapsulation.assignment_problems;
+package week_7.assignment_problems;
 
 public class PasswordChecker {
     private final String password;
